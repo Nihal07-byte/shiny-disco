@@ -1,4 +1,6 @@
 div{
     background-color: brown;
    border-radius: 10px;
+   font-size: large;
+   font-style: italic;
 }
